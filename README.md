@@ -9,6 +9,9 @@
 [Commitについて](./GitHub/COMMIT.md)
 
 ## Python
+[Pythonについて](./Python/ABOUT.md)
+
+[Pythonのインストール方法(Mac)](./Python/INSTALL_MAC.md)
 
 ### Flask
 
