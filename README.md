@@ -16,5 +16,6 @@
 [Pythonのインストール方法(Windows)](./Python/Python/INSTALL_WINDOWS.md)
 
 ### Flask
+[Flaskのインストール方法](./Python/Flask/INSTALL.md)
 
 ### Django
