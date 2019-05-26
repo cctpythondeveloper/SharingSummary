@@ -1,7 +1,6 @@
 # 必要なもの
 - Python(Anaconda)のインストール
 - pip(Pip Installs Packages/Pip installs Python): Pythonのパッケージ管理システム
-- git
 
 ## ツールの説明
 Homebrew(brew): Macbookで使えるパッケージマネージャ,パッケージ管理システム．

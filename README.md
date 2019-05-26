@@ -13,6 +13,8 @@
 
 [Pythonのインストール方法(Mac)](./Python/Python/INSTALL_MAC.md)
 
+[Pythonのインストール方法(Windows)](./Python/Python/INSTALL_WINDOWS.md)
+
 ### Flask
 
 ### Django
