@@ -6,6 +6,8 @@
 
 [Projectの進め方](./GitHub/PROJECT.md)
 
+[Commitについて](./GitHub/COMMIT.md)
+
 ## Python
 
 ### Flask
