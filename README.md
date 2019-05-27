@@ -4,7 +4,9 @@
 ## Github
 [GitHubについて](./GitHub/ABOUT.md)
 
-[Projectの進め方](./GitHub/PROJECT.md)
+[Projectの作り方](./GitHub/PROJECT.md)
+
+[ProjectのWorkFlow](./GitHub/WORKFLOW.md)
 
 [Commitについて](./GitHub/COMMIT.md)
 
